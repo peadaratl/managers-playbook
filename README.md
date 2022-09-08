@@ -1,6 +1,6 @@
 [principles]: https://github.com/peadar33/managers-playbook/blob/master/README.md#principles
 [one-on-ones]: https://github.com/peadar33/managers-playbook/blob/master/README.md#one-on-ones
-[coaching]: https://github.com/peadar33/managers-playbook/blob/master/README.md#coaching
+[coaching]: https://github.com/peadar33/managers-playbook/blob/main/README.md#coaching
 [feedback]: https://github.com/peadar33/managers-playbook/blob/master/README.md#feedback
 [thinking-strategically]: https://github.com/peadar33/managers-playbook/blob/master/README.md#thinking-strategically
 [making-decisions]: https://github.com/peadar33/managers-playbook/blob/master/README.md#making-decisions
