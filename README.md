@@ -1,18 +1,18 @@
-[principles]: https://github.com/peadar33/managers-playbook/blob/main/README.md#principles
-[one-on-ones]: https://github.com/peadar33/managers-playbook/blob/main/README.md#one-on-ones
-[coaching]: https://github.com/peadar33/managers-playbook/blob/main/README.md#coaching
-[feedback]: https://github.com/peadar33/managers-playbook/blob/main/README.md#feedback
-[thinking-strategically]: https://github.com/peadar33/managers-playbook/blob/main/README.md#thinking-strategically
-[making-decisions]: https://github.com/peadar33/managers-playbook/blob/main/README.md#making-decisions
-[coding]: https://github.com/peadar33/managers-playbook/blob/master/README.md#coding
-[ticket-and-pr-process]: https://github.com/peadar33/managers-playbook/blob/main/README.md#ticket-and-pr-process
-[communicating]: https://github.com/peadar33/managers-playbook/blob/main/README.md#communicating
-[hiring]: https://github.com/peadar33/managers-playbook/blob/main/README.md#hiring
-[onboarding]: https://github.com/peadar33/managers-playbook/blob/main/README.md#onboarding
-[announcing-change]: https://github.com/peadar33/managers-playbook/blob/main/README.md#announcing-change
-[managing-up]: https://github.com/peadar33/managers-playbook/blob/main/README.md#managing-up
-[managing-sideways]: https://github.com/peadar33/managers-playbook/blob/main/README.md#managing-sideways
-[further-reading]: https://github.com/peadar33/managers-playbook/blob/main/README.md#further-reading
+[principles]: https://github.com/peadaratl/managers-playbook/blob/main/README.md#principles
+[one-on-ones]: https://github.com/peadaratl/managers-playbook/blob/main/README.md#one-on-ones
+[coaching]: https://github.com/peadaratl/managers-playbook/blob/main/README.md#coaching
+[feedback]: https://github.com/peadaratl/managers-playbook/blob/main/README.md#feedback
+[thinking-strategically]: https://github.com/peadaratl/managers-playbook/blob/main/README.md#thinking-strategically
+[making-decisions]: https://github.com/peadaratl/managers-playbook/blob/main/README.md#making-decisions
+[coding]: https://github.com/peadaratl/managers-playbook/blob/master/README.md#coding
+[ticket-and-pr-process]: https://github.com/peadaratl/managers-playbook/blob/main/README.md#ticket-and-pr-process
+[communicating]: https://github.com/peadaratl/managers-playbook/blob/main/README.md#communicating
+[hiring]: https://github.com/peadaratl/managers-playbook/blob/main/README.md#hiring
+[onboarding]: https://github.com/peadaratl/managers-playbook/blob/main/README.md#onboarding
+[announcing-change]: https://github.com/peadaratl/managers-playbook/blob/main/README.md#announcing-change
+[managing-up]: https://github.com/peadaratl/managers-playbook/blob/main/README.md#managing-up
+[managing-sideways]: https://github.com/peadaratl/managers-playbook/blob/main/README.md#managing-sideways
+[further-reading]: https://github.com/peadaratl/managers-playbook/blob/main/README.md#further-reading
 
 # Manager's Playbook
 
